@@ -1,0 +1,89 @@
+CRITICAL - 2025-03-28 09:48:51 --> ErrorException: Undefined variable $buss
+[Method: GET, Route: admin]
+in APPPATH\Views\client\list_client.php on line 38.
+ 1 APPPATH\Views\client\list_client.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $buss', 'C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php', 38)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('client/list_client', [], true)
+ 5 APPPATH\Controllers\ClientController.php(9): view('client/list_client')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-28 09:50:01 --> ErrorException: Undefined variable $buss
+[Method: GET, Route: admin]
+in APPPATH\Views\client\list_client.php on line 38.
+ 1 APPPATH\Views\client\list_client.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $buss', 'C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php', 38)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('client/list_client', [], true)
+ 5 APPPATH\Controllers\ClientController.php(9): view('client/list_client')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-28 09:50:17 --> ErrorException: Undefined variable $buss
+[Method: GET, Route: admin]
+in APPPATH\Views\client\list_client.php on line 38.
+ 1 APPPATH\Views\client\list_client.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $buss', 'C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php', 38)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('client/list_client', [], true)
+ 5 APPPATH\Controllers\ClientController.php(9): view('client/list_client')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-28 09:50:29 --> ErrorException: Undefined variable $buss
+[Method: GET, Route: admin]
+in APPPATH\Views\client\list_client.php on line 38.
+ 1 APPPATH\Views\client\list_client.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $buss', 'C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php', 38)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('client/list_client', [], true)
+ 5 APPPATH\Controllers\ClientController.php(9): view('client/list_client')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-28 10:03:24 --> ErrorException: Undefined variable $row
+[Method: GET, Route: admin]
+in APPPATH\Views\client\list_client.php on line 46.
+ 1 APPPATH\Views\client\list_client.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('client/list_client', [], true)
+ 5 APPPATH\Controllers\ClientController.php(13): view('client/list_client', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-28 10:06:14 --> ErrorException: Undefined variable $row
+[Method: GET, Route: admin]
+in APPPATH\Views\client\list_client.php on line 46.
+ 1 APPPATH\Views\client\list_client.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\dashbaord\\app\\Views\\client\\list_client.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('client/list_client', [], true)
+ 5 APPPATH\Controllers\ClientController.php(13): view('client/list_client', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-28 10:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-28 11:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-28 11:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-28 11:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-28 11:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
