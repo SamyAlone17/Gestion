@@ -36,7 +36,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-sweetalert/1.0.1/sweetalert.js"></script>
 
     <!-- Page Wrapper -->
-    <div id="wrapper" style="bacground-color:red ;">
+    <div id="wrapper" style="background-color:white ;">
 
         <!-- Sidebar -->
         <ul class="navbar-nav  sidebar sidebar-sucess accordion" id="accordionSidebar">
@@ -73,6 +73,7 @@
                         <h6 class="collapse-header">Gestion Utilisateur</h6>
                         <a class="collapse-item" href="<?= base_url('/admin/client') ?>">Clients</a>
                         <a class="collapse-item" href="<?= base_url('/admin/produit') ?>">Produits</a>
+                        <a class="collapse-item" href="<?= base_url('/admin/commande') ?>">Commande</a>
                     </div>
                 </div>
             </li>
@@ -363,7 +364,6 @@
         execute_form_ajax("updateBus")
         execute_form_ajax("createVille")
         execute_form_ajax("updateVille")
-
         execute_form_ajax("createLieu")
         execute_form_ajax("updateLieu")
 
